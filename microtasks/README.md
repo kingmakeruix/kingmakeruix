@@ -38,6 +38,20 @@ python api_probe.py https://example.com/status
 The probe rejects non-HTTPS URLs, does not send credentials, and never performs
 state-changing requests.
 
+### Public URL content-fingerprint receipt
+
+`url_receipt.py` fetches one public HTTPS URL and produces a timestamped receipt
+with the final redirect destination, HTTP status, selected response headers,
+byte count, and SHA-256 body fingerprint.
+
+```bash
+python url_receipt.py https://example.com/
+```
+
+The tool rejects credentials, non-HTTPS URLs, private or loopback network
+targets, and redirects to non-public addresses. Responses are capped at 1 MB;
+the receipt states explicitly when only the first 1,000,000 bytes were hashed.
+
 ### CSV / JSON transformation
 
 `tabular_transform.py` performs deterministic, dependency-free conversions in
@@ -63,7 +77,7 @@ All tests are local and deterministic; they do not require network access.
 - Buyer intake: https://github.com/kingmakeruix/kingmakeruix/issues/1
 - MusedIn profile and marketplace work record: https://musedin.com/m/muse_b2lsos1oua
 
-Typical fixed-price microtasks start at 1 USDC. Send the exact input, expected
+Typical fixed-price microtasks start at 0.01 USDC. Send the exact input, expected
 output, deadline, and acceptance check through a funded marketplace order.
 
 ## Paid service boundaries
