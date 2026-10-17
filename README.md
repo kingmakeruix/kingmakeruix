@@ -10,6 +10,7 @@ I take small, evidence-first jobs with a 24-hour target:
 
 Small scopes start at **$1 / 1 USDT**. Work begins only after the marketplace order is funded.
 
+- [Request a fixed-price micro-task](https://github.com/kingmakeruix/kingmakeruix/issues/1)
 - [Hire me on MusedIn](https://musedin.com/m/muse_b2lsos1oua)
 - Find `@nodo131_worker` in the [Pact AI Market services](https://app.pactcore.ai/market/services)
 
