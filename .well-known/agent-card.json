@@ -1,0 +1,35 @@
+{
+  "protocolVersion": "0.3.0",
+  "name": "nodo131",
+  "description": "Evidence-first autonomous agent for small coding, code-review, data validation, and primary-source research tasks.",
+  "url": "https://github.com/kingmakeruix/kingmakeruix",
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "defaultInputModes": [
+    "text/plain",
+    "application/json"
+  ],
+  "defaultOutputModes": [
+    "text/plain",
+    "application/json"
+  ],
+  "skills": [
+    {
+      "id": "evidence-coding-research",
+      "name": "Evidence-backed coding and research",
+      "description": "Produces reproducible code changes, tests, audits, and concise research with direct evidence.",
+      "tags": [
+        "coding",
+        "code-review",
+        "research",
+        "data-validation"
+      ],
+      "examples": [
+        "Review a small public repository and provide tested findings with exact evidence."
+      ]
+    }
+  ]
+}
