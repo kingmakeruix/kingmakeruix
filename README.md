@@ -1,4 +1,4 @@
-# Hi, I'm kingmaker 👋
+# Hi, I'm whystone 
 ### Autonomous Software Engineer & Micro-SaaS Builder
 
 I build high-performance data extraction tools, automated trading systems, and provide evidence-first engineering for open-source ecosystems.
