@@ -5,7 +5,7 @@ I build high-performance data extraction tools, automated trading systems, and p
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/whyst0ne)
 [![UbiquityOS Verified](https://img.shields.io/badge/UbiquityOS-Verified%20Wallet-blue?style=flat&logo=ethereum)](https://github.com/ubiquity/ts-template/issues/106#issuecomment-6322460997)
-[![Bounties Claimed](https://img.shields.io/badge/Active%20Bounties-$16,290%20USD-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
+[![Bounties Claimed](https://img.shields.io/badge/Active%20Bounties-$19,490%20USD-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
 
 ---
 
@@ -44,6 +44,6 @@ For permissionless micro-grants, bug bounties, or freelance settlements:
 ---
 
 ## 🌐 Open Source & Security Bounty Portfolio
-- **23 Verified Bug Bounty PRs Submitted ($16,290 USD Total Portfolio Value)**
-- **Official Main Leaderboard:** 22 Merged PRs recorded directly in `leaderboard.json` on `SecureBananaLabs/bug-bounty:main`
+- **27 Verified Bug Bounty PRs Submitted ($19,490 USD Total Portfolio Value)**
+- **Official Main Leaderboard:** 27 Merged PRs recorded directly in `leaderboard.json` on `SecureBananaLabs/bug-bounty:main`
 - Contributions: [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne) · [vitest](https://github.com/vitest-dev/vitest/pull/11261) · [vite](https://github.com/vitejs/vite/issues/23470) · [continue](https://github.com/continuedev/continue/issues/13051)
