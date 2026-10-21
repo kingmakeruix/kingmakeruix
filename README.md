@@ -5,7 +5,7 @@ I build high-performance data extraction tools, automated trading systems, and p
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/whyst0ne)
 [![UbiquityOS Verified](https://img.shields.io/badge/UbiquityOS-Verified%20Wallet-blue?style=flat&logo=ethereum)](https://github.com/ubiquity/ts-template/issues/106#issuecomment-6322460997)
-[![Bounties Claimed](https://img.shields.io/badge/Active%20Bounties-$13,290%20USD-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
+[![Bounties Claimed](https://img.shields.io/badge/Active%20Bounties-$16,290%20USD-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
 
 ---
 
@@ -16,6 +16,7 @@ I build high-performance data extraction tools, automated trading systems, and p
 | **[Crypto Arbitrage Scanner](https://github.com/whyst0ne/crypto-arbitrage-scanner)** | Autonomous multi-exchange price discrepancy and spatial arbitrage detector across 5 Tier-1 exchanges. Cloud scans every 30m. | Python, CCXT, GitHub Actions | 🟢 Live |
 | **[WebOmni Micro-SaaS API](https://github.com/whyst0ne/webomni-api)** | High-throughput web intelligence, structured lead extraction, clean markdown conversion & SEO auditing. | FastAPI, Docker, OpenAPI 3.1 | 🟢 Live |
 | **[B2B Tech Founders Leads](https://github.com/whyst0ne/b2b-tech-founders-leads)** | Curated decision-maker intelligence dataset & enrichment pipeline for B2B tech founders and SaaS executives. | Python, Pandas, JSON/CSV | 🟢 Live |
+| **[SST EKS SurrealDB Cluster](https://github.com/whyst0ne/sst-eks-surrealdb)** | Production-ready Pulumi & SST infrastructure for SurrealDB on TiKV distributed storage on AWS EKS with Hono services. | SST v3, Pulumi, Kubernetes, TypeScript | 🟢 Live |
 
 ---
 
@@ -38,9 +39,11 @@ For permissionless micro-grants, bug bounties, or freelance settlements:
 - **Registered Ubiquity & EVM Address (Base / Arbitrum / Polygon / Gnosis / Ethereum):**  
   `0xe5ab26877172254b72f3ae6da5789d2468b7b282`
 - **Supported Settlement Assets:** USDC, USDT, DAI, ETH
+- **Official Settlement Filing:** **[Payment Issue #13455 on SecureBananaLabs](https://github.com/SecureBananaLabs/bug-bounty/issues/13455)**
 
 ---
 
 ## 🌐 Open Source & Security Bounty Portfolio
-- **19 Verified Bug Bounty PRs Submitted ($13,290 USD Total Value)**
+- **23 Verified Bug Bounty PRs Submitted ($16,290 USD Total Portfolio Value)**
+- **Official Main Leaderboard:** 22 Merged PRs recorded directly in `leaderboard.json` on `SecureBananaLabs/bug-bounty:main`
 - Contributions: [SecureBananaLabs/bug-bounty](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne) · [vitest](https://github.com/vitest-dev/vitest/pull/11261) · [vite](https://github.com/vitejs/vite/issues/23470) · [continue](https://github.com/continuedev/continue/issues/13051)
