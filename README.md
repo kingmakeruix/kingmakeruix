@@ -5,7 +5,7 @@ I build high-throughput data intelligence APIs, zero-capital DeFi arbitrage keep
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/whyst0ne)
 [![UbiquityOS Verified](https://img.shields.io/badge/UbiquityOS-Verified%20Wallet-blue?style=flat&logo=ethereum)](https://github.com/ubiquity/ts-template/issues/106#issuecomment-6322460997)
-[![Bounties Claimed](https://img.shields.io/badge/Verified%20Bounty%20Portfolio-$65,890%20USD%20(85%20PRs)-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
+[![Bounties Claimed](https://img.shields.io/badge/Verified%20Bounty%20Portfolio-$69,890%20USD%20(90%20PRs)-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
 
 ---
 
@@ -14,16 +14,16 @@ I build high-throughput data intelligence APIs, zero-capital DeFi arbitrage keep
 | Product | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[Crypto Arbitrage Scanner & DeFi Keeper](https://github.com/whyst0ne/crypto-arbitrage-scanner)** | Real-time CEX orderbook discrepancy scanner + zero-capital Aave V3 Flashloan (`flashLoanSimple`) ABI calldata generator across Base & Arbitrum DEXs. | Python 3.12, CCXT, Web3 RPC, GitHub Actions | 🟢 Live |
-| **[WebOmni API & x402 Gateway](https://github.com/whyst0ne/webomni-api)** | High-throughput web extraction Micro-SaaS + `HTTP 402 Payment Required` (`x402`) Base USDC micro-payment gateway & MCP JSON-RPC 2.0 agent server. | FastAPI, SQLite, x402, MCP, OpenAPI 3.1 | 🟢 Live |
+| **[WebOmni API & x402 Gateway](https://github.com/whyst0ne/webomni-api)** | High-throughput web extraction Micro-SaaS + `HTTP 402 Payment Required` (`x402`) Base USDC micro-payment gateway (`/.well-known/x402`, `/llms.txt`) & MCP JSON-RPC 2.0 agent server. | FastAPI, SQLite, x402, MCP, OpenAPI 3.1 | 🟢 Live |
 | **[B2B Tech Founders Leads](https://github.com/whyst0ne/b2b-tech-founders-leads)** | Verified decision-maker dataset & weekly GitHub Actions enrichment pipeline for B2B SaaS founders, CTOs, and AI executives. | Python, CSV/JSON, GitHub Actions | 🟢 Live |
 | **[SST EKS SurrealDB Cluster](https://github.com/whyst0ne/sst-eks-surrealdb)** | Production-ready Pulumi & SST v3 infrastructure for SurrealDB on TiKV distributed storage on AWS EKS with Hono services. | SST v3, Pulumi, Kubernetes, TypeScript | 🟢 Live |
 
 ---
 
-## 🌐 Open Source & Security Bug Bounty Portfolio ($65,890 USD)
-- **85 Verified Bug Bounty PRs Submitted ($65,890 USD Cumulative Portfolio Value)**
-- **Official Main Leaderboard:** `whyst0ne: 67` + `kingmakeruix: 18` = **85 Merged PRs** recorded in `leaderboard.json` on `SecureBananaLabs/bug-bounty:main`
-- **Security Specializations:** Prototype Pollution (`CWE-1321`), Path Traversal (`CWE-22`), Timing-Safe Cryptography (`CWE-208`), RBAC Privilege Escalation Guards, Collision-Resistant CSPRNG/UUID Identifiers, and Defensive Snapshot Isolation.
+## 🌐 Open Source & Security Bug Bounty Portfolio ($69,890 USD)
+- **90 Verified Bug Bounty PRs Submitted ($69,890 USD Cumulative Portfolio Value)**
+- **Official Main Leaderboard:** `whyst0ne: 72` + `kingmakeruix: 18` = **90 Merged PRs** recorded in `leaderboard.json` on `SecureBananaLabs/bug-bounty:main`
+- **Security Specializations:** Prototype Pollution (`CWE-1321`), Path Traversal (`CWE-22`), Timing-Safe Cryptography (`CWE-208`), RBAC Privilege Escalation Guards, Collision-Resistant CSPRNG/UUID Identifiers, Rate-Limit/Error Envelope Hardening, and Defensive Snapshot Isolation.
 
 ---
 
