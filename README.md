@@ -5,7 +5,7 @@ I build high-throughput data intelligence APIs, zero-capital DeFi arbitrage keep
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/whyst0ne)
 [![UbiquityOS Verified](https://img.shields.io/badge/UbiquityOS-Verified%20Wallet-blue?style=flat&logo=ethereum)](https://github.com/ubiquity/ts-template/issues/106#issuecomment-6322460997)
-[![Bounties Claimed](https://img.shields.io/badge/Verified%20Bounty%20Portfolio-$124,290%20USD%20(158%20PRs)-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
+[![Bounties Claimed](https://img.shields.io/badge/Verified%20Bounty%20Portfolio-$125,890%20USD%20(160%20PRs)-success?style=flat&logo=github)](https://github.com/SecureBananaLabs/bug-bounty/pulls/whyst0ne)
 
 ---
 
@@ -20,9 +20,9 @@ I build high-throughput data intelligence APIs, zero-capital DeFi arbitrage keep
 
 ---
 
-## 🌐 Open Source & Security Bug Bounty Portfolio ($124,290 USD)
-- **158 Verified Bug Bounty PRs Submitted ($124,290 USD Cumulative Portfolio Value)**
-- **Official Main Leaderboard:** `whyst0ne: 140` + `kingmakeruix: 18` = **158 Merged PRs** recorded in `leaderboard.json` on `SecureBananaLabs/bug-bounty:main`
+## 🌐 Open Source & Security Bug Bounty Portfolio ($125,890 USD)
+- **160 Verified Bug Bounty PRs Submitted ($125,890 USD Cumulative Portfolio Value)**
+- **Official Main Leaderboard:** `whyst0ne: 142` + `kingmakeruix: 18` = **160 Merged PRs** recorded in `leaderboard.json` on `SecureBananaLabs/bug-bounty:main`
 - **Security Specializations:** Prototype Pollution (`CWE-1321`), Path Traversal (`CWE-22`), Timing-Safe Cryptography (`CWE-208`), RBAC Privilege Escalation Guards, Collision-Resistant CSPRNG/UUID Identifiers, Rate-Limit/Error Envelope Hardening, and Defensive Snapshot Isolation.
 
 ---
